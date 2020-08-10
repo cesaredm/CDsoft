@@ -1,0 +1,36 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    .fondo{
+        margin-top: -7%;
+        height: 400px;
+    }
+    .sobre-nosotros{
+        background-image: url('../img/fondo1.png');
+        height: 400px;
+    }
+    .sobre-nosotros p{
+        font-size: 15px;
+        text-align: justify;
+    }
+}
+@media (min-width: 320px) and (max-width: 425px) {
+    .fondo{
+        margin-top: 0px;
+    }
+    .video{
+        margin-top: 0px;
+    }
+    .sobre-nosotros{
+        height: 410px;
+        background-image: url('../img/facturacionPCS.png');
+        background-attachment: fixed;
+        background-position: center;
+    }
+    .sobre-nosotros p{
+        font-size: 15px;
+        text-align: justify;
+        color: white;
+    }
+    .sobre-nosotros h3{
+        color: white;
+    }
+}

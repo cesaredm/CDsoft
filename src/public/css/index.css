@@ -1,0 +1,43 @@
+.fondo{
+    height: 700px;
+    background-image: url('../img/fondo1.png');
+    background-attachment: fixed;
+    margin-top: -8%;
+}
+.fondo img{
+    width: 100%;
+    margin-top: 25%;
+    box-shadow: 0px 0px 10px gray;
+}
+.video{
+    margin-top: 10%;
+}
+.slogan{
+    margin-top: 30%;
+    font-size: 50px;
+}
+.subslogan{
+    font-size: 30px;
+}
+.opacidad{
+    opacity: .5;
+}
+nav
+{
+    transition: all 1s ease;
+}
+.sobre-nosotros{
+    background-image: url('../img/fondo1.png');
+    background-attachment: fixed;
+    height: 500px;
+}
+.sobre-nosotros h3{
+    margin-top: 10%;
+}
+.icon{
+    height: 40px;
+}
+#formulario{
+    background-image: url('../img/ReportesPC.png');
+    background-attachment: fixed;
+}
